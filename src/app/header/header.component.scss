@@ -1,0 +1,18 @@
+.navbar-bright {
+    background-color: #111166;
+    color: #fff;
+    margin-bottom: 0;
+    border-width: 0;
+    a {
+        color: #ccccdd;
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: .08em;
+    }
+}
+.navbar-toggle:hover {
+    background-color:#fff;
+  }
+  .navbar-bright li > a:hover {
+    background-color:#000044;
+  }
